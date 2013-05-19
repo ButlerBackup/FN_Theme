@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Life\'s Transparent</string>
+
+    <integer name="fontSize">15</integer>
+
+    <color name="fontColor">#ff33b5e5</color>
+
+</resources>
