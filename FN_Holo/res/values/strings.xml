@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Holo</string>
+
+    <integer name="fontSize">15</integer>
+
+    <color name="fontColor">#33B5E5</color>
+
+</resources>
