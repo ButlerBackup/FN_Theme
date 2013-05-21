@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Orange and Black</string>
+
+    <integer name="fontSize">15</integer>
+
+    <color name="fontColor">#FFFA6C00</color>
+
+</resources>
