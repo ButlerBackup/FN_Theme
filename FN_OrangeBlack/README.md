@@ -1,4 +1,4 @@
-####Holo####
+####Orange and Black####
 ![Orange and Black](http://i.imgur.com/5j4mq0ol.png "Orange and Black")
 
 Requested by mahercs
