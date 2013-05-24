@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Mark II (dark)</string>
+
+    <integer name="fontSize">15</integer>
+
+    <color name="fontColor">#fff</color>
+    <color name="actionColor">#fff</color>
+
+</resources>
