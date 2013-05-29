@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">DadosRainbow</string>
+
+    <integer name="fontSize">15</integer>
+
+    <color name="fontColor">#ffffff</color>
+    <color name="actionColor">#fff</color>
+
+</resources>

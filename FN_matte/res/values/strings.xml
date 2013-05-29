@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Glowing Matte </string>
+
+    <integer name="fontSize">15</integer>
+
+    <color name="fontColor">#000</color>
+    <color name="actionColor">#000</color>
+
+</resources>
