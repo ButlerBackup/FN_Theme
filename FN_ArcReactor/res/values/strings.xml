@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Arc Reactor</string>
+
+    <integer name="fontSize">15</integer>
+
+    <color name="fontColor">#ffffff</color>
+
+</resources>

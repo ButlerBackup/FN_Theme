@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Iron Man</string>
+
+    <integer name="fontSize">15</integer>
+
+    <color name="fontColor">#f6c920</color>
+
+</resources>

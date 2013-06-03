@@ -5,13 +5,12 @@
  * should not be modified by hand.
  */
 
-package dev.blacksheep.fn.orangeblack;
+package dev.blacksheep.fn.arcreactor;
 
 public final class R {
     public static final class attr {
     }
     public static final class color {
-        public static final int actionColor=0x7f050001;
         public static final int fontColor=0x7f050000;
     }
     public static final class drawable {
